@@ -11,6 +11,13 @@ This gives 2 deployment options:
 ## Initial Setup:
 This repo currently contains the starter files.
 
+
+
+
+![coffee-code](https://github.com/user-attachments/assets/8fadc4a1-34c9-407b-88bb-114b47caef75)
+
+
+
 Clone repo and create a virtual environment
 ```
 $ git clone https://github.com/python-engineer/chatbot-deployment.git
